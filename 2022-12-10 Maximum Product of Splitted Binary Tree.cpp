@@ -1,3 +1,5 @@
+//The word 'splitted' is technically incorrect.
+
 class Solution {
 public:
     #define MOD 1000000007
